@@ -1,2 +1,3 @@
-# tutorials-ProjectLombok
-Custom Annotations in Java with Project Lombok
+# Custom Annotations in Java with Project Lombok
+
+Annotations are a kind of metadata, which developers can use to change the behaviour of the compiler or the runtime beyond what's possible in the programming language itself. This presentation shows how to create a custom annotation @Singleton, in Java, using Project Lombok. It discusses the limitations of reflection/introspection, the discovery mechanism for annotations, and the need and means for altering compiler behaviour.
